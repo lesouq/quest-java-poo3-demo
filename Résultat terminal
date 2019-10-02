@@ -1,0 +1,16 @@
+adriensouquere@MacBook-Pro-de-Adrien:[~/Desktop/Wild code school/JavaProjects/java 08/quest-java-poo3-demo] (master *%=) $ java Nature
+Pingou dives into the water.
+Pingou swims downward, depths : 3
+Pingou swims upward, depths : 2
+Pingou swims downward, depths : 6
+Pingou swims upward, depths : 1
+Pingou swims upward, depths : 0
+Pingou gets out of the water.
+Eagle takes off in the sky.
+Eagle flies upward, altitude : 120
+Eagle flies upward, altitude : 270
+It glides into the air.
+Eagle flies downward, altitude : 260
+Eagle is too high, it can't lands.
+Eagle flies downward, altitude : 259
+Eagle is too high, it can't lands.
